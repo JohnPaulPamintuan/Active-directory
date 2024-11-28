@@ -1,4 +1,4 @@
-# Project Description: Basic Active Directory Setup with Organizational Units and User Management
+# Basic Active Directory Setup with Organizational Units and User Management
 ## Objective: 
 To set up a basic Active Directory (AD) infrastructure that organizes users, computers, and resources into a logical structure. This project aims to streamline user and resource management by setting up Organizational Units (OUs) by geographic location, creating user accounts and groups, and establishing basic user support capabilities such as password reset and account unlock functionalities.
 
